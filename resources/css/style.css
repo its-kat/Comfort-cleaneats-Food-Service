@@ -189,12 +189,12 @@ input[type=submit] {
 /* ------------------------------------ */
 
 header {
-    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/hero-min.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/hero-min.jpg");
-    background-size: cover;
-    background-position: center;
+	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero-min.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero-min.jpg);
+	background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+	background-position: center;
+	height: 100vh;
 }
 
 .hero-text-box {
