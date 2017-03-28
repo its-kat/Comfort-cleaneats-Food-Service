@@ -437,10 +437,10 @@ cite {
 blockquote:before {
     display: block;
     content: "\201C";
-    font-size: 500%;
+    font-size: 300%;
     position: absolute;
-    top: -5px;
-    left: -5px;
+    top: -13px;
+    left: -40px;
 }
 
 cite img {
