@@ -189,8 +189,8 @@ input[type=submit] {
 /* ------------------------------------ */
 
 header {
-	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-min.jpg), no-repeat center center fixed;
-	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-min.jpg), no-repeat center center fixed;
+	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
     background-size: cover;
 	height: 100vh;
 }
