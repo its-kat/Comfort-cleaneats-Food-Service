@@ -563,6 +563,7 @@ footer {
 .social-links li {
     display: inline-block;
     margin-right: 20px;
+    margin-bottom: 15px;
 }
 
 .footer-nav li:last-child,
