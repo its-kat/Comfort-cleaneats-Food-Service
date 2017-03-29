@@ -150,7 +150,7 @@
     .footer-nav {
         padding-bottom: 4px;
         text-align: center;
-        float: 0;
+        float: none;
     }
 
     .footer-nav li, .social-links li {
