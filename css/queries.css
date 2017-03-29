@@ -53,10 +53,6 @@
 
   h2:after { margin-top: 15px; }
   .section-features .long-copy { margin-bottom: 15px; }
-
-  .social-links {
-      margin-right: 36%;
-  }
 }
 
 /* small phones to small tablets: from 481px to 767 px */
@@ -170,7 +166,7 @@
     }
 
     .social-links {
-        margin-right: 30%;
+        margin-right: 36%;
     }
 
     footer {
@@ -191,5 +187,10 @@
 
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
+    
+    .social-links {
+        margin-right: 30%;
+    }
+
 
 }
