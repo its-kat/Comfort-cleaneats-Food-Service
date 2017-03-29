@@ -37,7 +37,18 @@
     margin-left: 0%;
   }
 
-  .plan-price { font-size: 250%; }
+  .plan-box ul {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+  .plan-price {
+      font-size: 250%;
+      text-align: center;
+  }
+
+  .plan-price-meal { text-align: center; }
+
   .contact-form { width: 80%; }
 
   h2:after { margin-top: 15px; }
@@ -129,6 +140,11 @@
 
     .app-btn img {
         margin-top: 15px;
+    }
+
+    .plan-box ul {
+        width: 75%;
+        margin: 0 auto;
     }
 
 }

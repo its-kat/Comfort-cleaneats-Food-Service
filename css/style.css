@@ -155,7 +155,7 @@ input[type=submit] {
     border: 1px solid #e67e22;
     color: #fff;
     margin-right: 15px;
-    margin-bottom: 15px;
+    margin: 15px 15px;
 }
 
 .btn-ghost:link,
