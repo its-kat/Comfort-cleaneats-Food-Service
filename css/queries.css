@@ -122,6 +122,10 @@
 
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
+    .app-btn {
+        width: 100%;
+        padding-left: 20%;
+    }
 
 }
 
