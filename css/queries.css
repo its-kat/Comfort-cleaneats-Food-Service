@@ -146,6 +146,11 @@
         margin-top: 15px;
     }
 
+    .app-btn {
+        width: 100%;
+        padding-left: 14%;
+    }
+
     .plan-box ul {
         margin: 0 auto;
     }
