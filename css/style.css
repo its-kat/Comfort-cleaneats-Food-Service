@@ -383,10 +383,14 @@ header {
     margin-right: 25px;
 }
 
+.btn-app {
+    margin: 0 auto;
+}
+
 .btn-app img {
     height: 50px;
     width: auto;
-    margin: 0 auto;
+    margin-right: 10px;
 }
 
 .btn-app a {
