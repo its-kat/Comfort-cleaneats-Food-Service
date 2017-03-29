@@ -124,6 +124,7 @@
     .steps-box:last-of-type { margin-top: 20px; }
 
     .works-step div {
+      line-height: 24px;
       height: 40px;
       width: 40px;
       padding: 4px;
