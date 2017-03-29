@@ -106,6 +106,15 @@
         margin-bottom: 8px;
     }
 
+    .btn-full:link, .btn-full:visited, input[type=submit] {
+        margin: 0px 0px;
+    }
+
+    .btn-ghost:link, .btn-ghost:visited {
+        margin-bottom: 0px;
+        margin: 0px 0px;
+    }
+
     .icon-big {
         text-align: center;
         margin-bottom: 5px;
