@@ -386,7 +386,7 @@ header {
 .btn-app img {
     height: 50px;
     width: auto;
-    margin-right: 10px;
+    margin: 0 auto;
 }
 
 .btn-app a {
