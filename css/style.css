@@ -163,6 +163,7 @@ input[type=submit] {
     border: 1px solid #e67e22;
     color: #e67e22;
     margin-bottom: 15px;
+    margin: 15px 15px;
 }
 
 .btn:hover,
