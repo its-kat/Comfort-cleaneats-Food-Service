@@ -161,6 +161,10 @@
         margin: 0 auto;
     }
 
+    footer {
+        padding: 30px;
+    }
+
     footer p {
         margin-top: 0;
         line-height: 20px;
