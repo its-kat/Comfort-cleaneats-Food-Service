@@ -53,6 +53,10 @@
 
   h2:after { margin-top: 15px; }
   .section-features .long-copy { margin-bottom: 15px; }
+
+  .social-links {
+      margin-right: 36%;
+  }
 }
 
 /* small phones to small tablets: from 481px to 767 px */
