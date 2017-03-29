@@ -108,6 +108,7 @@
 
     .btn-full:link, .btn-full:visited, input[type=submit] {
         margin: 0px 0px;
+        margin-right: 20px;
     }
 
     .btn-ghost:link, .btn-ghost:visited {
