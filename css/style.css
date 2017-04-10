@@ -96,7 +96,6 @@ h3 {
 .box p {
     font-size: 90%;
     line-height: 145%;
-    text-align: justify;
 }
 
 /* ----- ICONS ----- */
@@ -192,10 +191,10 @@ input[type=submit] {
 /* ------------------------------------ */
 
 header {
-	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat cover center fixed;
-	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat cover center fixed;
-    /*background-size: cover;
-    background-attachment: fixed;*/
+	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: fixed;
 	height: 100vh;
 }
 
@@ -502,7 +501,7 @@ cite img {
 }
 
 .plan-price-meal {
-    text-align: center;
+    text-align:
     font-size: 80%;
 }
 
