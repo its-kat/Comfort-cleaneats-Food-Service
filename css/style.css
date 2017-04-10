@@ -193,9 +193,8 @@ input[type=submit] {
 header {
 	background: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
 	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), url(../img/hero-min.jpg), no-repeat center center fixed;
-    /*background-size: cover;
-    background-attachment: fixed;*/
 	height: 100vh;
+    background-attachment: fixed;
 }
 
 .hero-text-box {
@@ -418,9 +417,8 @@ header {
 /* TESTIMONIALS */
 /* ------------------------------------ */
 .section-testimonials {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url(../img/testimonials-min.jpg);
-    background-image: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url(../img/testimonials-min.jpg);
-    background-size: cover;
+    background: -webkit-linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url(../img/testimonials-min.jpg), no-repeat center center fixed;
+    background: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)), url(../img/testimonials-min.jpg), no-repeat center center fixed;
     color: #FFF;
     background-attachment: fixed;
 }
