@@ -7,6 +7,9 @@
 
   .row { padding: 0 2%; }
 
+  header { background-attachment: none; }
+  .section-testimonials { background-attachment: none; }
+
 }
 
 /* small tablet to big tablet: from 768px (ipad) to 1023px */
@@ -187,7 +190,7 @@
 
     .works-step { margin-bottom: 20px; }
     .works-step:last-of-type { margin-bottom: 20px; }
-    
+
     .social-links {
         margin-right: 30%;
     }
